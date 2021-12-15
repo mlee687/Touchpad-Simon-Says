@@ -1,5 +1,5 @@
 # Touchpad-Simon-Says
-<p>Team Members: Benjamin Sim and Minuk Lee<p>
+<p>Team Members: Benjamin Hyun Sim and Minuk Lee<p>
 <p>Georgia Institute of Technology<p>
 <p>Watch our video presentation and demo<p>
 
